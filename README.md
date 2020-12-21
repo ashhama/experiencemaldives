@@ -7,3 +7,5 @@ Step to setup:
 3. After importing the sql database, go to the 'wp_options' table and set the 'siteurl' and 'home' fields to your website address.
 
 4. Go to the 'wp-config.php' file in the project. Enter the appropriate details. Particularly for the database.
+
+5. Login to the product Username: admin, Password: admin
